@@ -1,16 +1,26 @@
-## Hi there 👋
+# hii
 
-<!--
-**juanjuanjuanfer/juanjuanjuanfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things at the intersection of AI and business automation. Founder of **NO-ZO-MI**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what I'm building
+
+**NO-ZO-MI** — an AI chatbot studio. We design custom AI chatbots for Telegram, powered by Claude, Gemini, and OpenAI, each with its own dedicated database and conversation analytics.
+
+-> **[no-zo-mi.com](https://www.no-zo-mi.com)**
+
+### what I work with
+
+`TypeScript` `Vue` `Vite` `PostgreSQL` `MongoDB` `Docker` `n8n` `LLM APIs (Claude / Gemini / OpenAI)`
+
+### let's talk
+
+If you're a business looking to automate customer conversations, or just want to say hi:
+
+- Website: [no-zo-mi.com](https://www.no-zo-mi.com)
+- Email: contact@no-zo-mi.com
+- WhatsApp: [chat with me](https://wa.me/529994594151)
+- Telegram: [@NO-ZO-MI](https://t.me/+529994594151)
+
+
+thanks for stopping by <3 
